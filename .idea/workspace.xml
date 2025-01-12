@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4271e8c4-fd55-4292-9b41-cdc1b7c9841e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/backendkotlin/src/main/kotlin/com/example/carebedsapp/CorsConfig.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/carebeds-frontend/public/logo-removebg-preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/carebeds-frontend/src/pages/HospitalDashboard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/carebeds-frontend/src/pages/MainPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/carebeds-frontend/src/pages/PatientDashboard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/carebeds-frontend/src/pages/PatientLogin.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/carebeds-frontend/src/pages/PatientRegister.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/carebeds-frontend/src/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backendkotlin/src/main/kotlin/com/example/carebedsapp/config/DataInitializer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/carebeds-frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/carebeds-frontend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/carebeds-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/carebeds-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/carebeds-frontend/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/carebeds-frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/carebeds-frontend/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/carebeds-frontend/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/carebeds-frontend/src/assets/images/bcg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/carebeds-frontend/src/assets/images/bed1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/carebeds-frontend/src/assets/images/bed2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/carebeds-frontend/src/assets/images/doc1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/carebeds-frontend/src/assets/images/help1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/carebeds-frontend/src/assets/images/help2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/carebeds-frontend/src/assets/images/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/carebeds-frontend/src/assets/images/try.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/carebeds-frontend/src/assets/images/try.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/carebeds-frontend/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/carebeds-frontend/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/carebeds-frontend/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/carebeds-frontend/src/main.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mZ4CF0h4LPvsHheklFRRuS80BL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;backendsystem&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/College/carebedsystem&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4271e8c4-fd55-4292-9b41-cdc1b7c9841e" name="Changes" comment="" />
+      <created>1727270638949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727270638949</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

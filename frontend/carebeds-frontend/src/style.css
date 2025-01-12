@@ -1,0 +1,46 @@
+/* style.css */
+body {
+  font-family:'Times New Roman', Times, serif;
+  margin: 0;
+  padding: 0;
+  background-color: antiquewhite;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin: 20px auto;
+}
+
+input {
+  padding: 10px;
+  margin: 5px 0;
+}
+
+button {
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  background-color: rgb(251, 247, 241);
+}
+
+button:hover {
+  background-color: rgb(183, 177, 169);
+}
+
+.patnav {
+  display: flex;
+  align-items: center;
+  background-color: rgb(251, 247, 241);
+}
+
+.headercon {
+  display: flex;
+  align-items: center;
+}
+
+.heading {
+  text-align: right;
+  margin-left: 10px;
+}
